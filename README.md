@@ -1,11 +1,13 @@
 
-
 <!--Header-->
 ![header](https://t3.ftcdn.net/jpg/05/23/04/00/360_F_523040057_JYMTxoQGquklUthNLLjspI7ldR1hrFlH.jpg)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=unkn0wn-J&color=0e75b6&style=flat-square" alt="Profile Views" width="200"/>
+</p>
 
 <div> <!--Body--> 
-  <h2 align="center">About Me</h2>
+  <h2 align="center">Who I Am</h2>
 
 Hi, I'm aspiring to become a skilled backend developer, from South Korea 🇰🇷.  
 I didn’t attend college, but I’m learning and growing as a developer through self-study and a coding bootcamp.
@@ -44,21 +46,19 @@ I didn’t attend college, but I’m learning and growing as a developer through
   <a href="https://github.com/unkn0wn-J">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=unkn0wn-J&show_icons=true&theme=radical" />
   </a>
+  <p align="center">
+  ───────────────────────────
 </p>
 
----
 
 
 
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unkn0wn-J&color=0e75b6&style=flat-square" alt="Profile Views" width="200"/>
-</p>
 
-<p align="center">
-  ────────────────
+
+
 </p>
 
 <p align="center">
