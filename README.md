@@ -10,7 +10,7 @@
   
   ##  About Me
   #### Hi, I'm aspiring to become a skilled backend developer.<br/>
-  #### I didn’t attend college, but I’m learning and growing as a developer through self-study and a coding bootcamp. I’m Korean 🇰🇷
+  #### I’m Korean 🇰🇷. I didn’t attend college, but I’m learning and growing as a developer through self-study and a coding bootcamp.
 
 <br/>
   <br/>
