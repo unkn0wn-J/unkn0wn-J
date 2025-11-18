@@ -1,3 +1,7 @@
+
+
+
+
 <!--Header-->
 ![header](https://github.com/unkn0wn-J/unkn0wn-J/blob/main/job158-387-eye-banner.jpg?raw=true)
 
@@ -49,3 +53,10 @@ I didn’t attend college, but I’m learning and growing as a developer through
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unkn0wn-J&color=0e75b6&style=flat-square" alt="Profile Views" width="200"/>
 </p>
+<br/>
+<br/>
+
+---
+<div align="center">
+  <img src="https://github.com/unkn0wn-J/unkn0wn-J/blob/main/123123213.webp?raw=true" alt="Footer Line" width="100%" />
+</div>
