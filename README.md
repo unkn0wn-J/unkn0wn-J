@@ -57,6 +57,4 @@ I didn’t attend college, but I’m learning and growing as a developer through
 <br/>
 
 ---
-<div align="center">
-  <img src="https://github.com/unkn0wn-J/unkn0wn-J/blob/main/123123213.webp?raw=true" alt="Footer Line" width="100%" />
-</div>
+![footer-long-blue](https://capsule-render.vercel.app/api?type=soft&color=0:1E90FF,100:87CEFA&height=50&width=100%&section=footer)
