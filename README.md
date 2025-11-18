@@ -39,15 +39,15 @@
   ##  Github Stats &nbsp; 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
+<div align="center">
   <!-- GitHub Stats -->
   <a href="https://github.com/unkn0wn-J">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=unkn0wn-J&show_icons=true&theme=radical" style="display: block;" />
   </a>
+</div>
 
-  <!-- Most Used Languages -->
-  <a href="https://github.com/unkn0wn-J">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wn-J&layout=compact&theme=radical&title_color=fff" style="display: block;" />
   </a>
+
 
 </div>
 
