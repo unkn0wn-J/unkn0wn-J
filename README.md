@@ -1,8 +1,7 @@
 <!--Header-->
 ![header](https://t3.ftcdn.net/jpg/05/23/04/00/360_F_523040057_JYMTxoQGquklUthNLLjspI7ldR1hrFlH.jpg)
 
-<img src="https://komarev.com/ghpvc/?username=unkn0wn-J&color=0e75b6&style=flat-square" alt="Profile Views" width="200"/>
-
+![](https://komarev.com/ghpvc/?username=unkn0wn-J&label=VISITORS)
 <div> <!--Body--> 
   <h2>Who I Am</h2>
 
