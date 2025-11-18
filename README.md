@@ -1,4 +1,6 @@
 
+
+
   <!--Header-->
   ![header](https://github.com/unkn0wn-J/unkn0wn-J/blob/main/job158-387-eye-banner.jpg?raw=true)
  
@@ -6,13 +8,13 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
-  #### :raising_hand: Hi, I’m aspiring to be a backend developer.<br/>
-  #### :fire: I didn’t attend college, but I’m learning and growing as a developer through self-study and a coding bootcamp.
+  ##  About Me
+  #### Hi, I’m aspiring to be a backend developer.<br/>
+  #### I didn’t attend college, but I’m learning and growing as a developer through self-study and a coding bootcamp.
 <br/>
   <br/>
   
-  ## 🧱 Tech Stack
+  ##  Tech Stack
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -23,18 +25,42 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <!--Django-->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  
+  ### ETC
+[![Velog](https://img.shields.io/badge/Velog-Visit%20My%20Blog-20C997?style=for-the-badge)](https://velog.io/@unkn0wn/posts)
 
-<!--
-** ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+  <br/>
+  <br/>
+  
+  ##  Github Stats &nbsp; 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/unkn0wn-J">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=unkn0wn-J&show_icons=true&theme=radical" style="display: block;" />
+  </a>
+
+  <!-- Most Used Languages -->
+  <a href="https://github.com/unkn0wn-J">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wn-J&layout=compact&theme=radical&title_color=fff" style="display: block;" />
+  </a>
+
+</div>
+
+<br/>
+
+
+
+
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=unkn0wn-J&color=0e75b6&style=flat-square" alt="Profile Views" width="200"/>
+</div>
+
+
+</div>
