@@ -24,8 +24,9 @@ Django <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-i
 
 <b>ETC</b><br/>
 <a href="https://velog.io/@unkn0wn/posts" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-Visit%20My%20Blog-20C997?style=for-the-badge"/>
+  Velog <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/velog.svg" alt="Velog" width="20" height="20"/>
 </a>
+
 
 ---
 
