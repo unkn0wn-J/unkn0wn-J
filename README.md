@@ -1,4 +1,8 @@
 
+
+
+
+
 <!--Header-->
 ![header](https://t3.ftcdn.net/jpg/05/23/04/00/360_F_523040057_JYMTxoQGquklUthNLLjspI7ldR1hrFlH.jpg)
 
@@ -20,23 +24,20 @@ I didn’t attend college, but I’m learning and growing as a developer through
   <h2 align="center">Tech Stack</h2>
 
 
-<p align="center">
   <b>Language</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-</p>
+Python<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> 
 
-<p align="center">
   <b>Framework</b><br/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-</p>
 
-<p align="center">
+Flask <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="20" height="20"/> &nbsp;
+Django <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="20" height="20"/>
+
+
+
   <b>ETC</b><br/>
   <a href="https://velog.io/@unkn0wn/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-Visit%20My%20Blog-20C997?style=for-the-badge"/>
   </a>
-</p>
 
 ---
 <div> 
