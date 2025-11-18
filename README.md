@@ -50,11 +50,18 @@ I didn’t attend college, but I’m learning and growing as a developer through
 
 ---
 
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unkn0wn-J&color=0e75b6&style=flat-square" alt="Profile Views" width="200"/>
 </p>
-<br/>
-<br/>
 
----
-![footer-long-blue](https://capsule-render.vercel.app/api?type=soft&color=0:1E90FF,100:87CEFA&height=50&width=100%&section=footer)
+<p align="center">
+  ────────────────
+</p>
+
+<p align="center">
+  <img src="https://caccioppoli.com/gif%20animated%20icons/ahr006.gif" alt="footer-gif" width="100%" />
+</p>
+
+
