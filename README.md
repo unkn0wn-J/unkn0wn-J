@@ -1,5 +1,3 @@
-[GitHub Skyline](https://skyline.github.com/unkn0wn-J)
-
 <!--Header-->
 ![header](https://t3.ftcdn.net/jpg/05/23/04/00/360_F_523040057_JYMTxoQGquklUthNLLjspI7ldR1hrFlH.jpg)
 
@@ -43,8 +41,7 @@ Django <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-i
   <h2>GitHub Stats</h2>
 </div>
 
-![3D Profile](https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/master/docs/example/monochrome.svg)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=unkn0wn-J)
 
 
 
