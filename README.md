@@ -36,9 +36,10 @@ Django <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-i
   <h2>GitHub Stats</h2>
 </div>
 
-
-![](https://komarev.com/ghpvc/?username=unkn0wn-J&label=VISITORS)
-
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=unkn0wn-J&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unkn0wn-J&theme=default" />
+</div>
 
 
 
