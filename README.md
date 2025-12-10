@@ -1,8 +1,3 @@
-<!--Header-->
-![header](https://t3.ftcdn.net/jpg/05/23/04/00/360_F_523040057_JYMTxoQGquklUthNLLjspI7ldR1hrFlH.jpg)
-
-![](https://komarev.com/ghpvc/?username=unkn0wn-J&label=VISITORS)
-
 <!--Body-->
 <div>
   <h2>Who I Am</h2>
@@ -41,7 +36,8 @@ Django <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-i
   <h2>GitHub Stats</h2>
 </div>
 
-<img src="https://ghchart.rshah.org/unkn0wn-J" alt="GitHub Contribution Chart" />
+
+![](https://komarev.com/ghpvc/?username=unkn0wn-J&label=VISITORS)
 
 
 
