@@ -41,7 +41,7 @@ Django <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-i
   <h2>GitHub Stats</h2>
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=unkn0wn-J)
+<img src="https://ghchart.rshah.org/unkn0wn-J" alt="GitHub Contribution Chart" />
 
 
 
