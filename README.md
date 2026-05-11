@@ -69,7 +69,3 @@ I’m learning and growing through self-study and a coding bootcamp.
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/unkn0wn-J/unkn0wn-J/main/123123213.webp" width="100%" />
-</p>
